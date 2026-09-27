@@ -55,7 +55,7 @@
 <td>
 
 ```bash
-git clone [repository urlll]
+git clone https://github.com/RexyExE/RiV-Mail---Modmail-Bot.git
 cd "RiV MiaL"
 ```
 
